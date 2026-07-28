@@ -1,3 +1,11 @@
+<img width="1536" height="1024" alt="portada-cibernetwork" src="https://github.com/user-attachments/assets/265ff574-1097-49fd-8eb3-7df625c112c1" />
+<img width="1181" height="1331" alt="renovacion-antenas" src="https://github.com/user-attachments/assets/e0399e1f-17a5-48d0-9bfd-f21aae3939c2" />
+<img width="1024" height="1536" alt="promocion-vacaciones" src="https://github.com/user-attachments/assets/fd6b1f2d-7b9a-4d3d-8966-1413ed1015e5" />
+<img width="1600" height="914" alt="portada-principal" src="https://github.com/user-attachments/assets/eef37ee4-5f3b-4bdd-b081-56fb2a5fcc45" />
+<img width="1536" height="1024" alt="portada-cibernetwork" src="https://github.com/user-attachments/assets/a5ce7a6c-e437-49f8-948c-0f0ca315b368" />
+<img width="1024" height="1536" alt="paginas-web" src="https://github.com/user-attachments/assets/e8dac13c-cc9f-4f78-ae16-8771a94bcdd3" />
+<img width="1024" height="1536" alt="cotizacion-internet" src="https://github.com/user-attachments/assets/4f458976-60d4-499e-a71d-9c2532b96724" />
+<img width="1024" height="1536" alt="camaras" src="https://github.com/user-attachments/assets/2c2f401d-f620-4615-8650-79d6982c5f5a" />
 ## Hi there 👋
 
 <!--
