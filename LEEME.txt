@@ -1,0 +1,13 @@
+CIBERNETWORK WIRELESS 2.0
+
+1. Abra index.html para revisar la página.
+2. Para publicar, suba TODO el contenido de esta carpeta a public_html.
+3. El archivo index.html debe quedar directamente dentro de public_html.
+4. El botón de WhatsApp está configurado al 773 332 0623.
+5. Correo mostrado: arcan_c@hotmail.com.
+
+Archivos principales:
+- index.html
+- styles.css
+- script.js
+- carpeta assets
